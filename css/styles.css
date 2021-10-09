@@ -83,6 +83,7 @@ body {
   letter-spacing: 0.06em;
   color: var(--main-text-light-color);
   background-color: #2196f3;
+  cursor: pointer;
 }
 .hero-button:focus,
 .hero-button:hover {
@@ -167,7 +168,7 @@ body {
 }
 /* portfolio*/
 /* filters*/
-.portfolio-main-btn {
+.portfolio-main-button {
   font-family: inherit;
   font-weight: 500;
   font-size: 16px;
@@ -176,6 +177,7 @@ body {
   letter-spacing: 0.03em;
   color: var(--main-text-color);
   background: #f5f4fa;
+  cursor: pointer;
 }
 .portfolio-main-button:hover,
 .portfolio-main-button:focus {
