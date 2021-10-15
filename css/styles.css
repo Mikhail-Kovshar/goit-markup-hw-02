@@ -60,6 +60,9 @@ body {
   letter-spacing: 0.02em;
   color: var(--main-text-color);
 }
+.current {
+  color: var(--hover-focus-color);
+}
 
 .addreess-link {
   font-weight: 500;
